@@ -1,4 +1,3 @@
-package com.company;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class _28_ExceptionHeadling {

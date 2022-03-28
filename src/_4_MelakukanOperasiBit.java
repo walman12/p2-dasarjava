@@ -1,5 +1,3 @@
-package com.company;
-
 public class _4_MelakukanOperasiBit {
     public static void main(String[] args) {
         int x = 5, y = 6;

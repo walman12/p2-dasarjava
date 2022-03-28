@@ -1,5 +1,3 @@
-package com.company;
-
 public class _20_PerulanganForEach {
     public static void main(String[] args) {
         int arrAngka[]={10,11,12,13,14,15};

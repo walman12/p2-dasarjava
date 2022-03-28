@@ -1,5 +1,3 @@
-package com.company;
-
 public class _7_MengunakanOperatorLogika {
     public static void main(String[] args) {
         int x = 7, y = 11, z = 11;

@@ -1,5 +1,3 @@
-package com.company;
-
 public class _27_BreakContinueLabel {
     public static void main(String[] args) {
         int a, b;

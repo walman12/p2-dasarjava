@@ -1,5 +1,3 @@
-package com.company;
-
 public class _23_PerulanganWhile {
     public static void main(String[] args) {
         //while loop

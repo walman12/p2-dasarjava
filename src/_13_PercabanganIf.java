@@ -1,5 +1,3 @@
-package com.company;
-
 public class _13_PercabanganIf {
     public static void main(String[] args) {
         //if

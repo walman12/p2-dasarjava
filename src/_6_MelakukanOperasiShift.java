@@ -1,5 +1,3 @@
-package com.company;
-
 public class _6_MelakukanOperasiShift {
     public static void main(String[] args) {
         int x = 7;

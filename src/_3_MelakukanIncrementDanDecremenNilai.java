@@ -1,5 +1,3 @@
-package com.company;
-
 public class _3_MelakukanIncrementDanDecremenNilai {
     public static void main(String[] args) {
         int x = 8, y = 13;

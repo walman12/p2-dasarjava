@@ -1,5 +1,3 @@
-package com.company;
-
 public class _25_BreakContinue {
     public static void main(String[] args)throws NumberFormatException {
         int x;

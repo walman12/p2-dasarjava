@@ -1,5 +1,3 @@
-package com.company;
-
 public class _5_MelakukanOperasiKomplemen {
     public static void main(String[] args) {
         int x=8;

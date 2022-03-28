@@ -1,5 +1,3 @@
-package com.company;
-
 public class _21_TabelPerkalian {
     public static void main(String[] args) {
         System.out.println("simole multiplication table using loops");
